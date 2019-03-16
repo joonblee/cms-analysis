@@ -1,3 +1,0 @@
-set CMSSW (These codes are very sensitive to the CMSSW version. You should check you use a right one.)
-Make root file using GGHZZ~, step2, step3 files
-Run analysis.py (This is a real analysis code.)
