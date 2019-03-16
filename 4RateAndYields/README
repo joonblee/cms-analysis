@@ -1,0 +1,10 @@
+signalRate.cc : Calculate signal rate of signal samples
+
+hist_rate.cc : fit overall signal rate as a function of signal mass
+
+cp ../widthCalculation/MassWindowA1.root ./
+
+nContents.cc : Calculate the data/bg yields & sig rate and Make limit input file
+
+
+

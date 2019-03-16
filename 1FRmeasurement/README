@@ -1,0 +1,5 @@
+selectDenAndNumForFR_*.cc : Calculate denominators & numerators of fake rates
+estimateFR*.cc : Calculate fake rates using the results from selectDenAndNumForFR*.cc
+*1.cc : Type-I fake rate
+*2.cc : Type-II fake rate
+

@@ -1,0 +1,3 @@
+DCBfit.cc : Calculate widths of each signal samples using Double Chrystal ball function 
+hist_res.cc : fit overall width evolution as a function of Z' mass using Nth polynomial function
+run.py : run DCBfit.cc & hist_res.cc
